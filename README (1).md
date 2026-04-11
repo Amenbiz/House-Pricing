@@ -19,7 +19,7 @@ The project is submitted as:
 | Name | Role | Responsibilities |
 |------|------|-----------------|
 | **Amen Ibizugbe** | Team Lead & Modelling Lead | Project coordination, CRISP-DM oversight, ML modelling (LR, DT, RF), model evaluation, final paper editing |
-| **Ashmir** | Data Preprocessing Lead | Missing value handling, categorical encoding, feature scaling, data pipeline |
+| **Ashmi** | Data Preprocessing Lead | Missing value handling, categorical encoding, feature scaling, data pipeline |
 | **Kiani** | EDA & Visualisation Lead | Distributions, correlation heatmap, scatter plots, outlier identification |
 | **Shakirat** | Feature Engineering & Ethics Lead | New feature creation, feature selection, feature importance, ethics section |
 
