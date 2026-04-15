@@ -1,6 +1,6 @@
 # 🏠 California Housing Price Prediction
 ### COM747 — Data Science and Machine Learning
-**Ulster University | Group Assignment | Due: 24 April 2026**
+**Group Assignment | Due: 24 April 2026**
 
 ---
 
